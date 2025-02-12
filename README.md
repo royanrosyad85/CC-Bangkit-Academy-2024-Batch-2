@@ -1,3 +1,4 @@
+![bangkit-logo](https://github.com/user-attachments/assets/f72f3982-9a34-479b-83dd-1f8b2fb5b13c)
 
 ## Bangkit Academy 2024 Batch 2 - Course Submissions, Resources, and Docs
 
