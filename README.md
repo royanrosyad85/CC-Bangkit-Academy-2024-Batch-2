@@ -7,13 +7,13 @@ This repository contains all my work in the Cloud Computing Path, including cour
 
 <div align="center">
 
-## Table of Contents
+### Table of Contents
 
 </div>
 
 <div align="center">
 
-### Course Submissions & Code Resources
+#### Course Submissions & Code Resources
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ This repository contains all my work in the Cloud Computing Path, including cour
 </tr>
 </table>
 
-###Certificates & Credentials
+#### Certificates & Credentials
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ This repository contains all my work in the Cloud Computing Path, including cour
 </table>
 </div>
 
-### Acknowledgements
+#### Acknowledgements
 
 
 I’m truly grateful to everyone who contributed to this journey:
