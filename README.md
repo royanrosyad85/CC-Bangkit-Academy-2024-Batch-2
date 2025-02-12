@@ -81,10 +81,10 @@ This repository contains all my work in the Cloud Computing Path, including cour
 
 I’m truly grateful to everyone who contributed to this journey:
 
-- **Bangkit Academy 2024 Batch 2 Program, for being an amazing platform where I could learn, grow, and sharpen my cloud computing skills.
-- **Google Cloud Platform, for offering powerful tools that made cloud deployment and management easier.
-- **My Mentor and Instructors, for their valuable guidance and encouragement every step of the way.
-- **My Collaborators and Peers, for their support, teamwork, and insightful feedback on different projects.
+- **Bangkit Academy 2024 Batch 2 Program** - for being an amazing platform where I could learn, grow, and sharpen my cloud computing skills.
+- **Google Cloud Platform** - for offering powerful tools that made cloud deployment and management easier.
+- **My Mentor and Instructors** - for their valuable guidance and encouragement every step of the way.
+- **My Collaborators and Peers** - for their support, teamwork, and insightful feedback on different projects.
 
 This work wouldn’t have been possible without all of you—thank you!
 
