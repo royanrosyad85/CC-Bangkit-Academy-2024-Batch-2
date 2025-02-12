@@ -1,5 +1,5 @@
 <div align="center">
-  ![bangkit-logo](https://github.com/user-attachments/assets/25c828fa-6a40-44d5-80d5-f2d0ec07764c)
+
 
 </div>
 
