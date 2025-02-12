@@ -1,7 +1,7 @@
-<center>
-![bangkit-logo](https://github.com/user-attachments/assets/d17be419-1d2c-44f4-b2e5-3a43bbc9e18e)
+<div align="center">
+  ![bangkit-logo](https://github.com/user-attachments/assets/25c828fa-6a40-44d5-80d5-f2d0ec07764c)
 
-</center>
+</div>
 
 
 ## Bangkit Academy 2024 Batch 2 - Course Submissions, Resources, and Docs
