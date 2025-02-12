@@ -1,5 +1,6 @@
 <center>
-![bangkit-logo](https://github.com/user-attachments/assets/f72f3982-9a34-479b-83dd-1f8b2fb5b13c)
+![bangkit-logo](https://github.com/user-attachments/assets/d17be419-1d2c-44f4-b2e5-3a43bbc9e18e)
+
 </center>
 
 
