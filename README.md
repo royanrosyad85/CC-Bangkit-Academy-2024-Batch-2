@@ -7,13 +7,13 @@ This repository contains all my work in the Cloud Computing Path, including cour
 
 <div align="center">
 
-# Table of Contents
+## Table of Contents
 
 </div>
 
 <div align="center">
 
-## Course Submissions & Code Resources
+### Course Submissions & Code Resources
 
 <table>
   <tr>
@@ -22,24 +22,38 @@ This repository contains all my work in the Cloud Computing Path, including cour
   </tr>
   <tr>
     <td>Learn the Basics of Web Programming</td>
-    <td><a href="#">Click here!</a></td>
+    <td><a href="">Click here!</a></td>
   </tr>
   <tr>
     <td>Learn the Basics of JavaScript Programming</td>
     <td><a href="#">Click here!</a></td>
   </tr>
+  <tr>
+    <td>Learn to Build Back-End Applications for Beginners with Google Cloud</td>
+    <td><a href="#">Click here!</a></td>
+  </tr>
+  <tr>
+    <td>Becoming a Google Cloud Engineer</td>
+    <td><a href="#">Click here!</a></td>
+  </tr>
 </table>
+<tr>
+    <td>Learn to Implement Machine Learning with Google Cloudd</td>
+    <td><a href="#">Click here!</a></td>
+</tr>
+<tr>
+    <td>ACE Simulation Exam</td>
+    <td><a href="#">Click here!</a></td>
+</tr>
 
 </div>
 
 ## Acknowledgements
 
-<div align="center">
 
 I would like to express my gratitude to the following individuals and organizations for their support and contributions:
 
 - **Bangkit Academy 2024 Batch 2 Program** – for providing the platform to learn, grow, and apply my cloud computing skills.
 - **Google Cloud Platform** – for offering the tools and resources that made cloud deployment and management possible.
 
-</div>
 
