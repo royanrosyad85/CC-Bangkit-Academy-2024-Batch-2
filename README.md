@@ -36,8 +36,7 @@ This repository contains all my work in the Cloud Computing Path, including cour
     <td>Becoming a Google Cloud Engineer</td>
     <td><a href="#">Click here!</a></td>
   </tr>
-</table>
-<tr>
+  <tr>
     <td>Learn to Implement Machine Learning with Google Cloudd</td>
     <td><a href="#">Click here!</a></td>
 </tr>
@@ -45,6 +44,8 @@ This repository contains all my work in the Cloud Computing Path, including cour
     <td>ACE Simulation Exam</td>
     <td><a href="#">Click here!</a></td>
 </tr>
+</table>
+
 
 </div>
 
