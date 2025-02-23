@@ -42,7 +42,7 @@ This repository contains all my work in the Cloud Computing Path, including cour
     <td><a href="#">Click here!</a></td>
   </tr>
   <tr>
-    <td>Learn to Implement Machine Learning with Google Cloudd</td>
+    <td>Learn to Implement Machine Learning with Google Cloud</td>
     <td><a href="#">Click here!</a></td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ This repository contains all my work in the Cloud Computing Path, including cour
     <td><a href="#">Click here!</a></td>
   </tr>
   <tr>
-    <td>Learn to Implement Machine Learning with Google Cloudd</td>
+    <td>Learn to Implement Machine Learning with Google Cloud</td>
     <td><a href="#">Click here!</a></td>
 </tr>
 </table>
